@@ -1,0 +1,6 @@
+[0.002]
+* Renamed 'es' export to 'elsearch' to be less ambiguous
+* Add POD
+
+[0.001]
+* Initial write

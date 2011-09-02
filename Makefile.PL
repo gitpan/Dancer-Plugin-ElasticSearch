@@ -23,7 +23,7 @@ my %WriteMakefileArgs = (
     "Dancer" => "1.3072",
     "ElasticSearch" => "0.45"
   },
-  "VERSION" => "0.001",
+  "VERSION" => "0.002",
   "test" => {
     "TESTS" => "t/*.t"
   }

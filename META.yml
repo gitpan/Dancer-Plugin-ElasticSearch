@@ -15,4 +15,4 @@ name: Dancer-Plugin-ElasticSearch
 requires:
   Dancer: 1.3072
   ElasticSearch: 0.45
-version: 0.001
+version: 0.002
