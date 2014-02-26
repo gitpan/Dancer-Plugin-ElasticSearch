@@ -11,7 +11,7 @@ use ElasticSearch;
 my $Connection;
 
 register elsearch => sub {
-    return $Connection or _create_connection();
+    return $Connection || _create_connection();
 };
 
 sub _create_connection {

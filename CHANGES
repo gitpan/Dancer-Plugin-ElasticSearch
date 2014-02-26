@@ -1,3 +1,6 @@
+[0.003]
+* Incorporated long overdue patch for RT #87353
+
 [0.002]
 * Renamed 'es' export to 'elsearch' to be less ambiguous
 * Add POD
